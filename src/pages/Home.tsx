@@ -98,7 +98,7 @@ export default function Home() {
                 {/* Glow effect behind the transparent image */}
                 <div className="absolute inset-0 bg-gradient-to-tr from-emerald-500/30 to-cyan-500/30 rounded-full blur-3xl -z-10" />
                 <img 
-                  src="/profile-transparent.png.png" 
+                  src="https://bhpytzpfkkbfglrzrrba.supabase.co/storage/v1/object/public/image/profile-transparent.png.png" 
                   alt="Tahsin" 
                   className="w-full h-full object-contain drop-shadow-2xl grayscale hover:grayscale-0 transition-all duration-500"
                   referrerPolicy="no-referrer"
